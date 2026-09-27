@@ -1,2 +1,1 @@
-# aitt-ludo
-AITT Plus - Ludo Game
+index.html
